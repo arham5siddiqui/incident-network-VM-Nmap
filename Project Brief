@@ -1,0 +1,27 @@
+Takeaways from my project
+
+𝙒𝙝𝙖𝙩 𝙄 𝙇𝙚𝙖𝙧𝙣𝙚𝙙: 
+
+Effective triage can drastically reduce response time and limit the impact of incidents. 
+
+The anatomy of common network-based attacks, such as DDoS and MITM, and how they exploit vulnerabilities. 
+
+Communication is key: tailoring incident reports for clients improves understanding and trust. 
+
+The most interesting topic I found was “analyst notes”. What are analyst notes? 
+To know more and why they're important, check out the detailed report I created, here: https://lnkd.in/eK_wBWFg (from page2 onwards)
+
+𝙋𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣: 
+
+(I personally find VMware and VirtualBox very convenient to use. The fastest and easiest way to install an OS into your VM is via ISO file. Download the ISO file from the official Linux website and upload it into VM. That’s it!) 
+
+• Set up a Kali VM and executed a basic network scan attack (only used Nmap) in a controlled environment to understand attacker methodologies. 
+
+• Observed how network scans are detected by monitoring tools, bridging theory with practice. 
+
+• Utilising some of the common Nmap command flags as shown in the screenshots below and documenting their importance in the SOC process. To know more about it, check the documentation here: https://lnkd.in/eK_wBWFg 
+
+𝙊𝙪𝙩𝙘𝙤𝙢𝙚𝙨 𝙖𝙣𝙙 𝙍𝙚𝙛𝙡𝙚𝙘𝙩𝙞𝙤𝙣𝙨: 
+• Sharpened my analytical thinking for incident triage. 
+• Enhanced technical skills in setting up secure test environments and executing network scans. 
+• Built confidence in aligning technical insights with client needs.
